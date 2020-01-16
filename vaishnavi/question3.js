@@ -1,4 +1,3 @@
-
 //https://www.codewars.com/kata/5bdc191306a8a678f6000187/train/javascript
 function shiftLeft(s, t){
   // your code here
